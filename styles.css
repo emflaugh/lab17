@@ -1,0 +1,56 @@
+body {
+  font-family: font151466;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #ded1c1;
+}
+.container {
+  background-color: white;
+  text-align: left;
+  border: 1px solid #efefef;
+  width: 50%;
+  padding: 10px 10px 10px 10px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+img {
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /*position: absolute;*/
+}
+.input-group {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 30px;
+  font-size: 30px;
+}
+span {
+  font-size: 24px;
+}
+.glyphicon-heart {
+  color: red;
+}
+.button {
+    padding: 7px;
+    color: #125688;
+    background-color: white;
+    font-size: 18px;
+    font-weight: lighter;
+    border-radius: 10px;
+    border: 5px solid #9b6954;
+}
+.button:hover {
+  color: #125688;
+  border: 5px solid #6dc993;
+}
+.button::active {
+  color: #125688;
+  background-color: white;
+}
+.nav {
+  padding: 20px 10px 10px 10px;
+}
